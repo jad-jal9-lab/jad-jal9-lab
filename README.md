@@ -1,3 +1,1 @@
-## Hi there 👋
-🌱 I’m currently learning ...
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+Jad%2C+a+Software+Engineering+graduate.;I+enjoy+building+software+and+exploring+new+technologies.;I'm+motivated+by+curiosity+and+solving+real-world+problems.;Interests" alt="Typing SVG" /></a>
