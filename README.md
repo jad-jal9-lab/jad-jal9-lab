@@ -48,8 +48,9 @@ Technologies I would like to explore and master:
 
 **Most Used Languages**
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+## Most Used Languages
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact)
 **Contribution Streak**
 
 <img width="75%" src="https://streak-stats.demolab.com?user=jad-jal9-lab&theme=github-dark-blue&hide_border=true" />
