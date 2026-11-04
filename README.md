@@ -3,3 +3,4 @@
 
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jad-jal9-lab)](https://git.io/streak-stats)
