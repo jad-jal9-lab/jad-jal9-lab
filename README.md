@@ -44,13 +44,14 @@ Technologies I would like to explore and master:
 
 </div>
 
+## `04` — GitHub Activity
 
-
-**Most Used Languages**
+<div align="center">
 
 ## Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact)
+
 **Contribution Streak**
 
 <img width="75%" src="https://streak-stats.demolab.com?user=jad-jal9-lab&theme=github-dark-blue&hide_border=true" />
@@ -63,6 +64,5 @@ Technologies I would like to explore and master:
 
 `BUILD • LEARN • REPEAT`
 
-*Thanks for visiting my corner of GitHub.*
 
 </div>
