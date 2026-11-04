@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jad!
+# Hi, I'm Jad!
 
 <div align="center">
 
@@ -11,11 +11,11 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a Software Engineering graduate with a strong interest in technology and software development.
 
-I'm motivated by curiosity, problem-solving, and the opportunity to turn ideas into practical solutions. I enjoy exploring new technologies, challenging myself, and continuously improving my skills through hands-on projects and learning.
+I'm motivated by curiosity, problem-solving, and the opportunity to turn ideas into practical solutions. I enjoy exploring new technologies, challenging myself, and continuously improving my skills.
 
 Currently, I'm developing my programming skills through **HackYourFuture** and personal projects.
 
@@ -23,13 +23,13 @@ Currently, I'm developing my programming skills through **HackYourFuture** and p
 
 ### 💡 Areas of Interest
 
-- 💻 Software Development
-- 🌐 Web Development
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- ☁️ Cloud Computing
-- 🧩 Problem Solving
-- 📚 Continuous Learning
+- Software Development
+- Web Development
+- Artificial Intelligence
+- Cybersecurity
+- Cloud Computing
+- Problem Solving
+- Continuous Learning
 
 ---
 
