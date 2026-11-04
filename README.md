@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=100&color=FFFFFF&background=000000&vCenter=true&multiline=true&repeat=false&width=900&height=500&lines=Welcome+to+my+GitHub+profile!;I'm+Jad%2C+a+Software+Engineering+graduate.;I+enjoy+building+software+and+exploring+new+technologies.;I'm+motivated+by+curiosity+and+solving+real-world+problems.;Interests+%3A;-+Software+Development;-+Artificial+Intelligence;-+Problem+Solving;Things+I+want+to+Learn%3A;-+AWS;-+Docker;-+Linux)](https://git.io/typing-svg)
 
-## Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-## Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact)
