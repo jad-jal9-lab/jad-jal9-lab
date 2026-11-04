@@ -1,60 +1,60 @@
-# Hi, I'm Jad!
+# Jad Jalbout
+### Software Engineering Graduate | Aspiring Developer
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Software+Engineering+Graduate;Always+learning+new+technologies;Building+ideas+into+reality)](https://git.io/typing-svg)
-
-**Software Engineering Graduate**  
-*Learning • Building • Growing*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=700&lines=Hello%2C+World!;Welcome+to+my+digital+space.;Curious+mind.+Creative+builder.;Always+learning%2C+always+evolving.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### About Me
+## `01` — Who Am I?
 
-I'm a Software Engineering graduate with a strong interest in technology and software development.
+I'm a Software Engineering graduate passionate about technology, software development, and discovering how things work.
 
-I'm motivated by curiosity, problem-solving, and the opportunity to turn ideas into practical solutions. I enjoy exploring new technologies, challenging myself, and continuously improving my skills.
+I believe that learning happens best by building, experimenting, and solving real problems. What motivates me is the constant evolution of technology and the opportunity to turn new knowledge into something useful.
 
-Currently, I'm developing my programming skills through **HackYourFuture** and personal projects.
+Currently, I'm expanding my skills through **HackYourFuture** and hands-on projects.
 
----
+## `02` — What I'm Interested In
 
-### 💡 Areas of Interest
+| Area | Interest |
+|---|---|
+| 💻 | Software Development |
+| 🌐 | Web Development |
+| 🤖 | Artificial Intelligence |
+| 🔐 | Cybersecurity |
+| ☁️ | Cloud Computing |
+| 🧩 | Problem Solving |
+| 📖 | Continuous Learning |
 
-- Software Development
-- Web Development
-- Artificial Intelligence
-- Cybersecurity
-- Cloud Computing
-- Problem Solving
-- Continuous Learning
+## `03` — My Learning Roadmap
 
----
-
-### 🎯 Technologies I'd Like to Learn
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Statistics
+Technologies I would like to explore and master:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact&theme=tokyonight&hide_border=true" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-<br/>
+</div>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=jad-jal9-lab&theme=tokyonight&hide_border=true" />
+## `04` — GitHub Activity
+
+<div align="center">
+
+**Most Used Languages**
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jad-jal9-lab&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+**Contribution Streak**
+
+<img width="75%" src="https://streak-stats.demolab.com?user=jad-jal9-lab&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -62,6 +62,8 @@ Currently, I'm developing my programming skills through **HackYourFuture** and p
 
 <div align="center">
 
-*Thanks for stopping by! Feel free to explore my repositories.* ✨
+`BUILD • LEARN • REPEAT`
+
+*Thanks for visiting my corner of GitHub.*
 
 </div>
