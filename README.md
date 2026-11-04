@@ -1,5 +1,5 @@
 # Jad Jalbout
-### Software Engineering Graduate | Aspiring Developer
+### Software Engineering Graduate 
 
 <div align="center">
 
@@ -44,9 +44,7 @@ Technologies I would like to explore and master:
 
 </div>
 
-## `04` — GitHub Activity
 
-<div align="center">
 
 **Most Used Languages**
 
